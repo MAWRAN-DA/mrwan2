@@ -1,0 +1,8 @@
+{
+  "name": "Marwan",
+  "lang": "ar",
+  "baseUrl": "https://www.faselhds.care",
+  "sourceClass": "Marwan",
+  "pkg": "eu.kanade.tachiyomi.extension.ar.marwan",
+  "version": 1
+}
